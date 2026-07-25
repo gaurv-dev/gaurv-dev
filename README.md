@@ -1,79 +1,115 @@
 <div align="center">
 
-```
-   ____                                 ____              _ 
-  / ___| __ _ _   _ _ __ __ ___   __   / ___|  ___  _ __ (_)
- | |  _ / _` | | | | '__/ _` \ \ / /   \___ \ / _ \| '_ \| |
- | |_| | (_| | |_| | | | (_| |\ V /     ___) | (_) | | | | |
-  \____|\__,_|\__,_|_|  \__,_| \_/     |____/ \___/|_| |_|_|
-```
-
-**`~/gaurav-soni $`** _building things that don't break in production (mostly)_
+# 🟣 About Me
 
 </div>
 
----
+```java
+class GauravSoni {
+    public static void main(String[] args) {
+        GauravSoni me = new GauravSoni();
+        me.introduce();
+    }
 
-```bash
-$ whoami
-```
+    String name        = "Gaurav Soni";
+    String role         = "Java Developer | Aspiring Backend Engineer";
+    String education     = "B.Tech CSE, 3rd Year";
+    String stack         = "Java, Spring Boot, MongoDB";
+    String exploring     = "Kafka";
+    String[] interests   = {"Backend Systems", "System Design", "Problem Solving"};
+    String goal          = "Crack interviews & land a strong backend role";
 
-```
-> Java backend developer in the making
-> 3rd year B.Tech CSE student
-> Currently deep in Spring Boot + MongoDB
-> Branching out into Docker, cloud deployment, and Kafka
-```
-
-```bash
-$ cat status.log
-```
-
-```
-[BUILDING]   NovaCart — full-stack ecommerce app
-[LEARNING]   Docker basics, deployment on Render / VPS / AWS
-[EXPLORING]  Kafka — event-driven systems
-[GRINDING]   DSA — Stacks, Linked Lists, Monotonic Stack
-[PREPPING]   Technical interviews + IELTS
+    void introduce() {
+        System.out.println("Thanks for stopping by, let's build something solid 🚀");
+    }
+}
 ```
 
----
-
-### `$ ls stack/`
-
-```
-backend/       java   spring-boot   mongodb
-devops/        docker   aws   render
-dsa/           stacks   linked-lists   monotonic-stack
-```
+I'm a Java backend developer in the making — currently deep in **Spring Boot** and **MongoDB**, comfortable with **Docker**, and deploying apps to **Render / VPS / AWS**. Right now I'm branching out into **Kafka**. Outside of that, I'm prepping for technical interviews and steadily working through DSA to sharpen my problem-solving.
 
 ---
 
-### `$ ./skill_check.sh`
+## 🌐 Connect with Me
 
-```
-Java Core        [########--]  80%
-Spring Boot      [#######---]  70%
-MongoDB          [######----]  65%
-Docker           [####------]  40%
-DSA              [######----]  60%
-Kafka            [##--------]  20%
-```
+<p align="left">
+<a href="https://linkedin.com/in/gaurav-soni-a645"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### `$ cat contact.txt`
+## 🔥 What I'm Currently Working On
 
-```
-LinkedIn  ->  linkedin.com/in/gaurav-soni-a645
-LeetCode  ->  leetcode.com/u/your-username
-Email     ->  gauravsoni1804@gmail.com
-```
+- 🛒 Building **NovaCart** — a full-stack Ecommerce app (Spring Boot + MongoDB)
+- 📡 Getting hands-on with **Kafka** for event-driven systems
+- 🧠 Sharpening **DSA** — Stacks, Linked Lists, Monotonic Stack patterns
+- 📚 Prepping for technical interviews
 
 ---
+
+## 🛠️ Tech Stack & Skills
+
+### Backend & Core
+
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### DevOps & Cloud
+
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+### Programming & DSA
+
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+</p>
+
+---
+
+## 📈 Skill Domains
+
+| Domain | Topics Covered | Progress |
+|---|---|---|
+| **Java Core** | OOP, Collections, Exception Handling, Streams | ▰▰▰▰▰▰▰▰▱▱ 80% |
+| **Spring Boot** | REST APIs, Dependency Injection, Spring Data | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| **MongoDB** | Schema Design, Aggregation, Indexing | ▰▰▰▰▰▰▱▱▱▱ 65% |
+| **Docker** | Images, Containers, Compose | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| **DSA** | Stacks, Linked Lists, Monotonic Stack | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| **Kafka** | Producers, Consumers, Topics | ▰▰▱▱▱▱▱▱▱▱ 20% |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gaurv-web&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurv-web&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurv-web&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## ⚡ Quick Facts
+
+- 🌱 Learning how distributed systems talk to each other via **Kafka**
+- 🎯 Short-term goal: land a backend role where I can own real systems
+- 🤝 Always up for collaborating on backend / Java projects
 
 <div align="center">
 
-**`$ echo "thanks for reading the logs. now go build something."`**
+*Thanks for stopping by — let's build something solid 🚀*
 
 </div>
