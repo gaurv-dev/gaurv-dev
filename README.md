@@ -15,7 +15,7 @@ class GauravSoni {
     String role         = "Java Developer | Aspiring Backend Engineer";
     String education     = "B.Tech CSE, 3rd Year";
     String stack         = "Java, Spring Boot, MongoDB";
-    String exploring     = "Kafka";
+    String exploring     = "Spring AI, Kafka";
     String[] interests   = {"Backend Systems", "System Design", "Problem Solving"};
     String goal          = "Crack interviews & land a strong backend role";
 
@@ -25,15 +25,15 @@ class GauravSoni {
 }
 ```
 
-I'm a Java backend developer in the making — currently deep in **Spring Boot** and **MongoDB**, comfortable with **Docker**, and deploying apps to **Render / VPS / AWS**. Right now I'm branching out into **Kafka**. Outside of that, I'm prepping for technical interviews and steadily working through DSA to sharpen my problem-solving.
+I'm a Java backend developer in the making — currently deep in **Spring Boot** and **MongoDB**, comfortable with **Docker**, and deploying apps to **Render / VPS / AWS**. Right now I'm branching out into **Kafka** and **Spring AI**. Outside of that, I'm prepping for technical interviews and steadily working through DSA to sharpen my problem-solving.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/gaurav-soni-a645"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/https://leetcode.com/u/IiUzqKc1aM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/gaurav-soni-a64575277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/IiUzqKc1aM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -42,6 +42,7 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 ## 🔥 What I'm Currently Working On
 
 - 📡 Getting hands-on with **Kafka** for event-driven systems
+- 🤖 Exploring **Spring AI** to bring AI features into Spring Boot apps
 - 🧠 Sharpening **DSA** — Stacks, Linked Lists, Monotonic Stack patterns
 - 📚 Prepping for technical interviews
 
@@ -85,6 +86,7 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 | **Docker** | Images, Containers, Compose | ▰▰▰▰▰▰▰▱▱▱ 70% |
 | **DSA** | Stacks, Linked Lists, Monotonic Stack | ▰▰▰▰▰▰▱▱▱▱ 60% |
 | **Kafka** | Producers, Consumers, Topics | ▰▰▱▱▱▱▱▱▱▱ 20% |
+| **Spring AI** | LLM Integration, Prompt Templates | ▰▱▱▱▱▱▱▱▱▱ 15% |
 
 ---
 
