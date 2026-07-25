@@ -33,7 +33,7 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-soni-a645"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/https://leetcode.com/u/IiUzqKc1aM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -41,7 +41,6 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 
 ## 🔥 What I'm Currently Working On
 
-- 🛒 Building **NovaCart** — a full-stack Ecommerce app (Spring Boot + MongoDB)
 - 📡 Getting hands-on with **Kafka** for event-driven systems
 - 🧠 Sharpening **DSA** — Stacks, Linked Lists, Monotonic Stack patterns
 - 📚 Prepping for technical interviews
