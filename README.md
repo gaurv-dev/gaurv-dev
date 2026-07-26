@@ -15,8 +15,9 @@ class GauravSoni {
     String role         = "Java Developer | Aspiring Backend Engineer";
     String education     = "B.Tech CSE, 3rd Year";
     String stack         = "Java, Spring Boot, MongoDB";
-    String exploring     = "Spring AI, Kafka";
+    String exploring     = "Kafka, Spring AI";
     String[] interests   = {"Backend Systems", "System Design", "Problem Solving"};
+    String status        = "Open to backend developer roles";
     String goal          = "Crack interviews & land a strong backend role";
 
     void introduce() {
@@ -32,9 +33,9 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gaurav-soni-a64575277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/IiUzqKc1aM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/gaurav-soni-a645"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -103,8 +104,18 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 
 ---
 
+## 🏆 Achievements & Milestones
+
+- 🥇 Won **Smart India Hackathon (SIH)** at the college internal round level
+- 💼 Working as a **Developer Intern**, applying Spring Boot & MongoDB in real-world projects
+- 🧩 Consistently solving DSA problems to strengthen problem-solving fundamentals
+- 📘 Built a strong foundation in **CS fundamentals** — DSA, OOP, DBMS, and OS
+
+---
+
 ## ⚡ Quick Facts
 
+- 🔭 Currently focused on deepening backend architecture & system design skills
 - 🌱 Learning how distributed systems talk to each other via **Kafka**
 - 🎯 Short-term goal: land a backend role where I can own real systems
 - 🤝 Always up for collaborating on backend / Java projects
