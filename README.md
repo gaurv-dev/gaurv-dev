@@ -107,7 +107,7 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 ## 🏆 Achievements & Milestones
 
 - 🥇 Won **Smart India Hackathon (SIH)** at the college internal round level
-- 💼 Working as a **Developer Intern**, applying Spring Boot & MongoDB in real-world projects
+- 💼 Working as a **Developer Intern**, contributing to real-world production codebases
 - 🧩 Consistently solving DSA problems to strengthen problem-solving fundamentals
 - 📘 Built a strong foundation in **CS fundamentals** — DSA, OOP, DBMS, and OS
 
