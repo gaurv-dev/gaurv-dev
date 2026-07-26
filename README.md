@@ -91,19 +91,6 @@ I'm a Java backend developer in the making — currently deep in **Spring Boot**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurv-web&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurv-web&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurv-web&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🏆 Achievements & Milestones
 
 - 🥇 Won **Smart India Hackathon (SIH)** at the college internal round level
