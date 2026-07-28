@@ -2,31 +2,15 @@
 
 # 🟣 About Me
 
-</div>
+Hey, I'm Gaurav 👋
 
-```java
-class GauravSoni {
-    public static void main(String[] args) {
-        GauravSoni me = new GauravSoni();
-        me.introduce();
-    }
+I turn backend problems into working systems — Java + Spring Boot is my daily driver, MongoDB holds the data, Docker ships it, and Render/AWS keeps it running.
 
-    String name        = "Gaurav Soni";
-    String role         = "Java Developer | Aspiring Backend Engineer";
-    String education     = "B.Tech CSE, 3rd Year";
-    String stack         = "Java, Spring Boot, MongoDB";
-    String exploring     = "Kafka, Spring AI";
-    String[] interests   = {"Backend Systems", "System Design", "Problem Solving"};
-    String status        = "Open to backend developer roles";
-    String goal          = "Crack interviews & land a strong backend role";
+Right now I'm pushing past the basics: learning Kafka to handle real-world scale, and exploring Spring AI to see where backend meets intelligence. Alongside that, I'm deep in DSA prep — because clean code means nothing if you can't solve the problem first.
 
-    void introduce() {
-        System.out.println("Thanks for stopping by, let's build something solid 🚀");
-    }
-}
-```
+3rd-year CSE student, but I build like I'm already on a team. Actively looking for backend developer roles where I can learn fast and ship faster.
 
-I'm a Java backend developer in the making — currently deep in **Spring Boot** and **MongoDB**, comfortable with **Docker**, and deploying apps to **Render / VPS / AWS**. Right now I'm branching out into **Kafka** and **Spring AI**. Outside of that, I'm prepping for technical interviews and steadily working through DSA to sharpen my problem-solving.
+If you're into backend systems, distributed stuff, or just nerding out over clean architecture — let's talk.
 
 ---
 
