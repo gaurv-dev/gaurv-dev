@@ -15,9 +15,7 @@ If you're into backend systems, distributed stuff, or clean architecture — let
 
 <br>
 
-## 🌐 Connect with Me
-
-## 🌐 Connect with Me
+## 🌐 LET'S CONNECT
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaurav-soni-a64575277/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
