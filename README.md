@@ -2,11 +2,11 @@
 
 # 🟣 About Me
 
-Hey, I'm Gaurav 👋
+**Hey, I'm Gaurav 👋**
 
-I turn backend problems into working systems — Java + Spring Boot is my daily driver, MongoDB holds the data, Docker ships it, and Render/AWS keeps it running.
+I turn backend problems into working systems — **Java + Spring Boot** is my daily driver, **MongoDB** holds the data, **Docker** ships it, and **Render/AWS** keeps it running.
 
-Right now I'm pushing past the basics: learning Kafka to handle real-world scale, and exploring Spring AI to see where backend meets intelligence. Alongside that, I'm deep in DSA prep — because clean code means nothing if you can't solve the problem first.
+Right now I'm pushing past the basics: learning **Kafka** to handle real-world scale, and exploring **Spring AI** to see where backend meets intelligence. Alongside that, I'm deep in **DSA** prep — because clean code means nothing if you can't solve the problem first.
 
 3rd-year CSE student, but I build like I'm already on a team. Actively looking for backend developer roles where I can learn fast and ship faster.
 
