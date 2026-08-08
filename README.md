@@ -56,7 +56,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 ## `GET /stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mongodb,docker,aws,kafka,git,postman&theme=dark&perline=8" width="640"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,docker,aws,kafka,git,github,postman,linux,vscode,idea,redis&theme=dark&perline=7" width="700"/>
 </div>
 
 <br/>
@@ -86,30 +86,11 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 
 <br/>
 
-## `GET /activity`
+
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9" height="165"/>
-</div>
-
-<br/>
-
-## `GET /commits` — live grid
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/gaurav-dev/gaurav-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<div align="center">
-<sub>⚙️ animated snake — requires one-time GitHub Action setup (2 min, steps below)</sub>
-</div>
-
-<br/>
 
 ## `POST /connect`
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-dev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav-dev)
