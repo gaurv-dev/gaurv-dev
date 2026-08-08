@@ -1,78 +1,120 @@
-<h1 align="center">Hey, I'm Gaurav 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot · MongoDB · Kafka</h3>
+<div align="center">
 
-<br>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                            ║
+║   GAURAV.exe                                    STATUS ●  ║
+║   Backend Developer Service                      ONLINE   ║
+║                                                            ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 👨‍💻 About Me
+</div>
 
-I turn backend problems into working systems — Java + Spring Boot is my daily driver, MongoDB holds the data, Docker ships it, and Render/AWS keeps it running.
+<br/>
 
-Right now I'm pushing past the basics: learning **Kafka** to handle real-world scale, and exploring **Spring AI** to see where backend meets intelligence. Alongside that, I'm deep in **DSA** prep — because clean code means nothing if you can't solve the problem first.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%7C+daily+driver;MongoDB+%7C+where+the+data+lives;Docker+%7C+how+it+ships;Kafka+%7C+learning+to+scale+it" />
+</div>
 
-3rd-year CSE student, but I build like I'm already on a team. Actively looking for backend developer roles where I can learn fast and ship faster.
+<br/>
 
-If you're into backend systems, distributed stuff, or clean architecture — let's talk.
+## `GET /about`
 
-<br>
+```json
+{
+  "role": "Backend Developer",
+  "status": "3rd-Year CSE Student",
+  "stack": ["Java", "Spring Boot", "MongoDB", "Docker", "AWS"],
+  "currently_learning": ["Kafka", "Spring AI"],
+  "philosophy": "clean code means nothing if you can't solve the problem first",
+  "looking_for": "backend role — fast learner, faster shipper"
+}
+```
 
-## 🌐 Let's Connect
+I build backend systems that don't fall over. Java + Spring Boot is my daily driver, MongoDB holds the data, Docker ships it. Right now I'm pushing into **Kafka** for event-driven, real-world scale — and **Spring AI**, to see where backend meets intelligence.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-soni-a64575277/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/IiUzqKc1aM/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="mailto:gauravsoni1804@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+Alongside all of it: deep in DSA, because architecture without fundamentals is just guessing.
 
-<br>
+<br/>
 
-## 🔥 What I'm Currently Working On
+## `GET /services` — currently running
 
-- ⚡ Getting hands-on with **Kafka** for event-driven systems
-- 🤖 Exploring **Spring AI** to bring AI features into Spring Boot apps
-- 🧩 Sharpening DSA — Stacks, Linked Lists, Monotonic Stack patterns
-- 🎯 Prepping for technical interviews
+| PID | Process | Status |
+|:---|:---|:---:|
+| `01` | Learning Kafka — event-driven systems | 🟡 in progress |
+| `02` | Exploring Spring AI in Spring Boot apps | 🟡 in progress |
+| `03` | DSA — Stacks, Linked Lists, Monotonic Stack | 🟢 active |
+| `04` | Interview prep | 🟢 active |
 
-<br>
+<br/>
 
-## 🧰 Tech Stack
+## `GET /stack`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,docker,aws,kafka,git,postman&theme=dark" />
+</div>
 
-<br>
+<br/>
 
-## 📊 Skill Domains
+## `GET /metrics` — skill load
 
-| Domain | Topics Covered | Progress |
-|---|---|---|
-| **Java Core** | OOP, Collections, Exception Handling, Streams | ██████████ 80% |
-| **Spring Boot** | REST APIs, Dependency Injection, Spring Data | ███████░░░ 70% |
-| **MongoDB** | Schema Design, Aggregation, Indexing | ██████░░░░ 65% |
-| **Docker** | Images, Containers, Compose | ███████░░░ 70% |
-| **DSA** | Stacks, Linked Lists, Monotonic Stack | ██████░░░░ 60% |
-| **Kafka** | Producers, Consumers, Topics | ██░░░░░░░░ 20% |
-| **Spring AI** | LLM Integration, Prompt Templates | █░░░░░░░░░ 15% |
+```
+Java Core       ████████████████░░░░  80%   OOP · Collections · Streams
+Spring Boot     ██████████████░░░░░░  70%   REST APIs · DI · Spring Data
+MongoDB         █████████████░░░░░░░  65%   Schema Design · Aggregation
+Docker          ██████████████░░░░░░  70%   Images · Containers · Compose
+DSA             ████████████░░░░░░░░  60%   Stacks · Linked Lists
+Kafka           ████░░░░░░░░░░░░░░░░  20%   Producers · Consumers · Topics
+Spring AI       ███░░░░░░░░░░░░░░░░░  15%   LLM Integration · Prompts
+```
 
-<br>
+<br/>
 
-## 🏆 Achievements & Milestones
+## `GET /logs` — achievements
 
-- 🥇 Won **Smart India Hackathon (SIH)** at the college internal round level
-- 💼 Working as a **Developer Intern**, contributing to real-world production codebase
-- 🧠 Consistently solving DSA problems to strengthen problem-solving fundamentals
-- 📚 Built a strong foundation in CS fundamentals — DSA, OOP, DBMS, and OS
+```
+[✓] Won Smart India Hackathon (SIH) — college internal round
+[✓] Developer Intern — shipping in a real production codebase
+[✓] DSA grind never stops — patterns > problem count
+[✓] Built CS fundamentals: DSA, OOP, DBMS, OS
+```
 
-<br>
+<br/>
 
-## ⚡ Quick Facts
+## `GET /activity`
 
-- 🎓 3rd-Year CSE Student
-- 💻 Backend Developer in the making
-- 🚀 Open to backend developer roles
-- 🌱 Currently learning Kafka & Spring AI
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+## `POST /connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-dev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav-dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurav@example.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+$ echo "if you're into backend systems, distributed stuff, or clean architecture — let's talk."
+```
+
+</div>
+
+<div align="center">
+<sub>200 OK · response time: usually fast</sub>
+</div>
