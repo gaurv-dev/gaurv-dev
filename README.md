@@ -18,7 +18,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/GET-/about-22D3EE?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/GET-/about-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>who's running this service</sub>
 
 <table>
 <tr><td>
@@ -52,7 +52,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 
 <br/>
 
-![](https://img.shields.io/badge/GET-/stack-22D3EE?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/GET-/stack-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>tools & tech I work with</sub>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,docker,aws,kafka,git,github,postman,linux,vscode,idea,redis&theme=dark&perline=7" width="700"/>
@@ -87,13 +87,65 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 
 
 
+![](https://img.shields.io/badge/GET-/projects-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>things I've shipped</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧳 Travel Expense Tracker**
+Full-stack expense splitting app built on a Spring Boot backend, structured as a reusable template.
+`Java` · `Spring Boot`
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ SpringBootFirstProject**
+Foundational Spring Boot service — REST endpoints, layered architecture, first production-style setup.
+`Java` · `Spring Boot`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗺️ Lost-Found Portal**
+A community lost & found web platform to report and recover misplaced items.
+`HTML` · `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**📁 More on the way**
+Currently building a Kafka-based event system and a Spring AI–powered backend demo — stay tuned.
+`Kafka` · `Spring AI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/GET-/education-22D3EE?style=for-the-badge&labelColor=0d1117)
+
+| Stage | Details |
+|:---|:---|
+| 🎓 **B.Tech, CSE** | 3rd Year · Focused on backend engineering & systems design |
+| 📘 **Core Subjects** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
+| 💼 **Developer Intern** | Contributing to a real-world production codebase |
+| 🏆 **Smart India Hackathon** | Winner — college internal round |
+
+<br/>
+
 <div align="center">
 
 ![](https://img.shields.io/badge/POST-/connect-22D3EE?style=for-the-badge&labelColor=0d1117)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav@example.com)
+<br/>
+
+<a href="https://linkedin.com/in/gaurav-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+<a href="https://leetcode.com/gaurav-dev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/></a>
+<a href="mailto:gaurav@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
 
 </div>
 
