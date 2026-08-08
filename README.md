@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=180&section=header&text=GAURAV.exe&fontSize=50&fontColor=22D3EE&fontAlignY=42&desc=Backend%20Developer%20Service%20·%20STATUS%3A%20ONLINE&descAlignY=62&descColor=8b949e&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=180&section=header&text=Hey,%20I'm%20Gaurav&fontSize=50&fontColor=22D3EE&fontAlignY=42&desc=Backend%20Developer%20·%20Java%20%7C%20Spring%20Boot%20%7C%20MongoDB&descAlignY=62&descColor=8b949e&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -56,7 +56,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 ## `GET /stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mongodb,docker,aws,kafka,git,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mongodb,docker,aws,kafka,git,postman&theme=dark&perline=8" width="640"/>
 </div>
 
 <br/>
@@ -91,10 +91,6 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gaurav-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff" width="100%"/>
 </div>
 
 <br/>
