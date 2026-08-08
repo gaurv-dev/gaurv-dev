@@ -111,7 +111,7 @@ Foundational Spring Boot service — REST endpoints, layered architecture, first
 
 **🗺️ Lost-Found Portal**
 A community lost & found web platform to report and recover misplaced items.
-`HTML` · `CSS`
+`MongoDB` · `Express.js` · `React` · `Node.js`
 
 </td>
 <td width="50%" valign="top">
