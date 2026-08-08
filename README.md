@@ -12,14 +12,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaurav-dev&color=22D3EE&style=flat-square&label=service+pings)
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=3000&color=6B7280&center=true&vCenter=true&width=500&lines=connecting...;handshake+complete;fetching+profile+data...;done." />
+<img src="https://komarev.com/ghpvc/?username=gaurav-dev&color=22D3EE&style=for-the-badge&label=VISITORS+ROUTED+HERE&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
-## `GET /about`
+![](https://img.shields.io/badge/GET-/about-22D3EE?style=for-the-badge&labelColor=0d1117)
 
 <table>
 <tr><td>
@@ -42,7 +41,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 
 <br/>
 
-## `GET /services` — currently running
+![](https://img.shields.io/badge/GET-/services-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>currently running</sub>
 
 | PID | Process | Status |
 |:---|:---|:---:|
@@ -53,7 +52,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 
 <br/>
 
-## `GET /stack`
+![](https://img.shields.io/badge/GET-/stack-22D3EE?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mongodb,mysql,docker,aws,kafka,git,github,postman,linux,vscode,idea,redis&theme=dark&perline=7" width="700"/>
@@ -61,7 +60,7 @@ Alongside all of it: deep in DSA, because architecture without fundamentals is j
 
 <br/>
 
-## `GET /metrics` — skill load
+![](https://img.shields.io/badge/GET-/metrics-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>skill load</sub>
 
 ```
 Java Core       ████████████████░░░░  80%   OOP · Collections · Streams
@@ -75,7 +74,7 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 
 <br/>
 
-## `GET /logs` — achievements
+![](https://img.shields.io/badge/GET-/logs-22D3EE?style=for-the-badge&labelColor=0d1117) <sub>achievements</sub>
 
 ```
 [✓] Won Smart India Hackathon (SIH) — college internal round
@@ -90,11 +89,11 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 
 <div align="center">
 
-## `POST /connect`
+![](https://img.shields.io/badge/POST-/connect-22D3EE?style=for-the-badge&labelColor=0d1117)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-dev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav-dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurav@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gaurav-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav@example.com)
 
 </div>
 
