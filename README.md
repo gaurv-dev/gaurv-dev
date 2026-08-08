@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                            ║
-║   GAURAV.exe                                    STATUS ●  ║
-║   Backend Developer Service                      ONLINE   ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e293b&height=180&section=header&text=GAURAV.exe&fontSize=50&fontColor=22D3EE&fontAlignY=42&desc=Backend%20Developer%20Service%20·%20STATUS%3A%20ONLINE&descAlignY=62&descColor=8b949e&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -17,20 +10,31 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%7C+daily+driver;MongoDB+%7C+where+the+data+lives;Docker+%7C+how+it+ships;Kafka+%7C+learning+to+scale+it" />
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav-dev&color=22D3EE&style=flat-square&label=service+pings)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=3000&color=6B7280&center=true&vCenter=true&width=500&lines=connecting...;handshake+complete;fetching+profile+data...;done." />
+
+</div>
+
 <br/>
 
 ## `GET /about`
 
-```json
-{
-  "role": "Backend Developer",
-  "status": "3rd-Year CSE Student",
-  "stack": ["Java", "Spring Boot", "MongoDB", "Docker", "AWS"],
-  "currently_learning": ["Kafka", "Spring AI"],
-  "philosophy": "clean code means nothing if you can't solve the problem first",
-  "looking_for": "backend role — fast learner, faster shipper"
-}
+<table>
+<tr><td>
+
+```yaml
+role:                Backend Developer
+status:               3rd-Year CSE Student
+stack:                Java · Spring Boot · MongoDB · Docker · AWS
+currently_learning:   Kafka · Spring AI
+philosophy:           "clean code means nothing if you can't solve the problem first"
+looking_for:          backend role — fast learner, faster shipper
 ```
+
+</td></tr>
+</table>
 
 I build backend systems that don't fall over. Java + Spring Boot is my daily driver, MongoDB holds the data, Docker ships it. Right now I'm pushing into **Kafka** for event-driven, real-world scale — and **Spring AI**, to see where backend meets intelligence.
 
@@ -91,6 +95,18 @@ Spring AI       ███░░░░░░░░░░░░░░░░░  15
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=22D3EE&line=22D3EE&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+## `GET /commits` — live grid
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gaurav-dev/gaurav-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
+<sub>⚙️ animated snake — requires one-time GitHub Action setup (2 min, steps below)</sub>
 </div>
 
 <br/>
